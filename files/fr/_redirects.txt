@@ -4048,6 +4048,7 @@
 /fr/docs/Web/API/Window.scrollTo	/fr/docs/Web/API/Window/scrollTo
 /fr/docs/Web/API/Window.setTimeout	/fr/docs/Web/API/setTimeout
 /fr/docs/Web/API/Window.showModalDialog	/fr/docs/Web/API/Window/showModalDialog
+/fr/docs/Web/API/Window/DOMContentLoaded_event	/fr/docs/conflicting/Web/API/Document/DOMContentLoaded_event
 /fr/docs/Web/API/Window/URL	/fr/docs/Web/API/URL
 /fr/docs/Web/API/Window/caches	/fr/docs/Web/API/caches
 /fr/docs/Web/API/Window/content	/fr/docs/Web/API/Window
@@ -4631,7 +4632,7 @@
 /fr/docs/Web/CSS/Élément_remplacé	/fr/docs/Web/CSS/Replaced_element
 /fr/docs/Web/Demos_of_open_web_technologies	/fr/docs/Web/Demos
 /fr/docs/Web/Démos_de_technologies_open_web	/fr/docs/Web/Demos
-/fr/docs/Web/Events/DOMContentLoaded	/fr/docs/Web/API/Window/DOMContentLoaded_event
+/fr/docs/Web/Events/DOMContentLoaded	/fr/docs/conflicting/Web/API/Document/DOMContentLoaded_event
 /fr/docs/Web/Events/Orientation_and_motion_data_explained	/fr/docs/Web/API/Device_orientation_events/Orientation_and_motion_data_explained
 /fr/docs/Web/Events/abort	/fr/docs/Web/API/HTMLMediaElement/abort_event
 /fr/docs/Web/Events/abort_(ProgressEvent)	/fr/docs/Web/API/XMLHttpRequest/abort_event

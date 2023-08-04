@@ -12699,17 +12699,6 @@
       "Gorrk"
     ]
   },
-  "Web/API/Window/DOMContentLoaded_event": {
-    "modified": "2020-10-15T21:40:06.593Z",
-    "contributors": [
-      "Watilin",
-      "fscholz",
-      "zede-master",
-      "Gastonite",
-      "Shinze",
-      "jmh"
-    ]
-  },
   "Web/API/Window/afterprint_event": {
     "modified": "2019-03-23T22:24:13.216Z",
     "contributors": ["fscholz", "Kalwyn"]
@@ -27629,6 +27618,17 @@
       "nvana",
       "si0ls",
       "dattaz"
+    ]
+  },
+  "conflicting/Web/API/Document/DOMContentLoaded_event": {
+    "modified": "2020-10-15T21:40:06.593Z",
+    "contributors": [
+      "Watilin",
+      "fscholz",
+      "zede-master",
+      "Gastonite",
+      "Shinze",
+      "jmh"
     ]
   }
 }
